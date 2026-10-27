@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ClayHR is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.clayhr.com/
+ClayHR provides an AI‑native HR platform that helps organizations hire, onboard, manage performance, and retain talent. Its cloud‑based solution offers employee records, time‑and‑attendance, expense tracking, benefits administration, performance reviews, and AI‑driven assistance for HR tasks. Available globally in multiple languages, ClayHR targets enterprises seeking configurable, data‑rich HR software with integrated analytics and automation.
+
+**Areas:** HR · HRMS · SaaS · AI · Employee-Management · Performance-Management
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.clayhr.com/)
+- [Getting started](https://www.clayhr.com/es/award-winning-employee-onboarding-software)
+- [Pricing](https://www.clayhr.com/pricing)
+- [Changelog](https://www.clayhr.com/whats-new)
+- [Blog](https://www.clayhr.com/blog)
+- [Terms of service](https://www.clayhr.com/policies/terms-of-service)
+- [Privacy policy](https://www.clayhr.com/policies/privacy-policy)
+- [Status](https://clayhr.statuspage.io/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/clayhr/](https://apis.io/providers/clayhr/).
